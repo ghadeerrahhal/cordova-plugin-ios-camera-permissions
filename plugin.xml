@@ -10,7 +10,7 @@
     </engines>
     <platform name="ios">
       <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-          <string>To scan QR codes and bar codes</string>
+          <string>To verify your identity</string>
       </config-file>
     </platform>
 </plugin>
